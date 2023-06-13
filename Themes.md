@@ -36,6 +36,9 @@ The rest of the themes, in alphabetical order:
 
 ![agnoster](https://user-images.githubusercontent.com/49100982/108254745-777cb400-716c-11eb-800a-a8cfa612253f.jpg)
 
+### amresh
+![amresh](https://i.imgur.com/SM441j1.png)
+
 [Official repository](https://github.com/agnoster/agnoster-zsh-theme)
 
 Additional setup:
